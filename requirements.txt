@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+pillow
+ipywidgets
+ipython
+ipykernel
+jupyterlab
